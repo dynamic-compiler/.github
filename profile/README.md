@@ -5,10 +5,10 @@ Click on repositories to view code implementations of the compiler.
 ## Repositories
 
 - [Lexer](https://github.com/dynamic-compiler/Lexer) - All files related to the lexer steps
-- [instruction-selection](https://github.com/dynamic-compiler/instruction-selection) - Instruction selection for Minified C.
+- [Parser](https://github.com/dynamic-compiler/Parser) - All files related to the parsing steps
+- [Instruction Selection](https://github.com/dynamic-compiler/instruction-selection) - Instruction selection for Minified C.
 - [Register Liveness and Allocation](https://github.com/dynamic-compiler/Register-Liveness-and-Allocation) - All files related to the register liveness and allocation steps
-- [parserFSM](https://github.com/dynamic-compiler/parserFSM) - Python parser for Minified C using tokens outputted from [cpp-lexer](https://github.com/dynamic-compiler/cpp-lexer/tree/feature/adiwakar8/0-add-lexer).
-- [cppParserFSM](https://github.com/dynamic-compiler/cppParserFSM) - C++ parser for Minified C using tokens outputted from [cpp-lexer](https://github.com/dynamic-compiler/cpp-lexer/tree/feature/adiwakar8/0-add-lexer).
+- 
 - [dual_port_bram_integration](https://github.com/dynamic-compiler/dual_port_bram_integration) - Implementation for plan to create a dual port BRAM on the Intel DE-10 Standard FPGA.
 - [FIFO-BRAM](https://github.com/dynamic-compiler/FIFO_BRAM) - Test for FIFO on the BRAM.
 - [min-C-grammar](https://github.com/dynamic-compiler/min-C-grammar) - LL(1) grammar used in the parser for Minified C.
