@@ -4,9 +4,7 @@ Click on repositories to view code implementations of the compiler.
 
 ## Repositories
 
-- [binary-ir](https://github.com/dynamic-compiler/binary-ir) - Binary Representation (using C structs) of Targeted LLVM IR Instructions.
-- [regalloc-fsm-sw](https://github.com/dynamic-compiler/regalloc-fsm-sw) - This repository contains the C++ FSMs (Finite State Machine) for Register Allocation alogrithms.
-- [regalloc-fsm-hw](https://github.com/dynamic-compiler/regalloc-fsm-hw) - Contains Register Liveness and Allocation code in System Verilog with hardcoded instructions.
+- [Register Liveness and Allocation](https://github.com/dynamic-compiler/Register-Liveness-and-Allocation) - All files related to the register liveness and allocation steps
 - [parserFSM](https://github.com/dynamic-compiler/parserFSM) - Python parser for Minified C using tokens outputted from [cpp-lexer](https://github.com/dynamic-compiler/cpp-lexer/tree/feature/adiwakar8/0-add-lexer).
 - [cppParserFSM](https://github.com/dynamic-compiler/cppParserFSM) - C++ parser for Minified C using tokens outputted from [cpp-lexer](https://github.com/dynamic-compiler/cpp-lexer/tree/feature/adiwakar8/0-add-lexer).
 - [instruction-selection](https://github.com/dynamic-compiler/instruction-selection) - Instruction selection for Minified C.
