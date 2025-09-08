@@ -4,6 +4,7 @@ Click on repositories to view code implementations of the compiler.
 
 ## Repositories
 
+- [Lexer](https://github.com/dynamic-compiler/Lexer) - All files related to the lexer steps
 - [Register Liveness and Allocation](https://github.com/dynamic-compiler/Register-Liveness-and-Allocation) - All files related to the register liveness and allocation steps
 - [parserFSM](https://github.com/dynamic-compiler/parserFSM) - Python parser for Minified C using tokens outputted from [cpp-lexer](https://github.com/dynamic-compiler/cpp-lexer/tree/feature/adiwakar8/0-add-lexer).
 - [cppParserFSM](https://github.com/dynamic-compiler/cppParserFSM) - C++ parser for Minified C using tokens outputted from [cpp-lexer](https://github.com/dynamic-compiler/cpp-lexer/tree/feature/adiwakar8/0-add-lexer).
@@ -12,6 +13,4 @@ Click on repositories to view code implementations of the compiler.
 - [FIFO-BRAM](https://github.com/dynamic-compiler/FIFO_BRAM) - Test for FIFO on the BRAM.
 - [min-C-grammar](https://github.com/dynamic-compiler/min-C-grammar) - LL(1) grammar used in the parser for Minified C.
 - [gcd-asm](https://github.com/dynamic-compiler/gcd-asm) - Source code, intermediate representation, and compiled versions of the GCD algorithm.
-- [py-lexer](https://github.com/dynamic-compiler/py-lexer) - Lexer for Minified C written in Python.
-- [cpp-lexer](https://github.com/dynamic-compiler/cpp-lexer) - Lexer for Minified C written in C++.
 - [rsyocto](https://github.com/dynamic-compiler/rsyocto) - Open-Source Embedded Linux Distribution for use on Intel SoC-FPGAs.
