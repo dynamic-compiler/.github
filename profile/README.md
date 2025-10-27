@@ -12,4 +12,4 @@ Click on repositories to view code implementations of the compiler.
 - [Branch Target Calculation](https://github.com/dynamic-compiler/Branch-Target-Calculation) - All files related to the Branch Target Calculation step of the Dynamic Compiler
 - [DE-10](https://github.com/dynamic-compiler/DE-10) - All directories related to dynamic compiler hardware on the DE-10 board
 
-<img width="531" height="604" alt="image" src="https://github.com/user-attachments/assets/8b8e11f7-78a0-40f1-bcb6-748d13b71f9a" />
+<img width="719" height="787" alt="image" src="https://github.com/user-attachments/assets/9eed7b56-8f95-4d74-a713-bbf5c0c7b586" />
